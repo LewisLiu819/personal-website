@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Peizhuo Liu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peizhuo
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: High School Student, Researcher, and ACSL Team Leader
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Middle School Attached to Northwestern Polytechnical University
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lewisliu819@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/LewisLiu819/
+  - icon: brands/x
+    url: https://x.com/lewisliu819/
+  - icon: brands/instagram
+    url: https://www.instagram.com/pzliu_0819/
+  - icon: brands/weixin
+    url: weixin://contacts/profile/lewisliu365
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Explainable AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: High School (Olympiad in Informatics)
+    institution: Middle School Attached to Northwestern Polytechnical University
+    date_start: 2023-09-01
+    date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Specialized in competitive programming and informatics.
+  
+  - area: Middle School
+    institution: Middle School Attached to Northwestern Polytechnical University
+    date_start: 2019-09-01
+    date_end: 2022-06-01
     summary: |
-      GPA: 3.8/4.0
+      Focused on foundational computer science concepts and the national curriculum.
+      Scored 664/700 in the high school entrance exam(Zhong Kao).
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Elementary School
+    institution: Elementary School Attached to Shaanxi Normal University
+    date_start: 2013-09-01
+    date_end: 2019-06-01
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Xi'an Jiaotong University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Fields of interest:
+      - Explainable AI
+      - Deep Learning (through Stanford CS231)
+      - Computer Vision (through Stanford CS231n)
+
+  - position: Participant
+    company_name: China Talented Youth Program
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-12-01
+    date_end: 2024-12-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +164,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Peizhuo Liu, a high school student from Middle School attached to Northwestern Polytechnical University. I'm interested in explainable AI, deep learning, and APEX legends(Well... Used to be). 
+
+I'm currently developing a system for emotion classification, combined with explainable AI, to ensure its interpretability. I'm also leading and teaching a computer science course for elementary school kids, called COMPSCI 0.10.
