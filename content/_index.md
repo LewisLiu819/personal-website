@@ -35,10 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm currently doing research in Explainable AI, especially the practical use of explainable AI in sensitive fields, I developed an emotion classifier model using a fine-tuned BERT architecture on Sentiment 140 dataset, achieving over 95% accuracy, recall, and F1-scores for both positive and negative sentiments. I've combined the explainable AI tech to the model, and is currently working on improving the model's generalization ability.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
         Please reach out to collaborate 😃
     design:
       columns: '1'
